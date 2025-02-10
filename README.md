@@ -1,3 +1,3 @@
 # Rock-Paper-Scissors
 
-My learning progress through Thhe Odin project
+My learning progress through The Odin project
